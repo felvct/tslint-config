@@ -1,0 +1,33 @@
+{
+  "name": "@felvct/tslint-config",
+  "version": "1.0.0",
+  "description": "felvcts' custom TSLint config",
+  "main": "tslint.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felvct/tslint-config-felvct.git"
+  },
+  "keywords": [
+    "felvct",
+    "tslint",
+    "typescript"
+  ],
+  "author": "felvct",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felvct/tslint-config-felvct/issues"
+  },
+  "homepage": "https://github.com/felvct/tslint-config-felvct#readme",
+  "dependencies": {
+    "rxjs-tslint-rules": "4.30.1",
+    "tslint-eslint-rules": "5.4.0"
+  },
+  "devDependencies": {
+    "tslint": "6.1.1",
+    "typescript": "3.8.3"
+  },
+  "peerDependencies": {
+    "tslint": "6.1.1",
+    "typescript": "3.8.3"
+  }
+}
